@@ -6,3 +6,7 @@ Some description about the repo project.
 
 Watch more tutorial on Markdown
 
+## Local Development.
+
+1. Open index.html in the browser
+2. ReadMe for more details.
